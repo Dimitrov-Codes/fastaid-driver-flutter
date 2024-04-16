@@ -1,66 +1,26 @@
 {
   "project_info": {
-    "project_number": "325674316325",
-    "firebase_url": "https://emalert-2788e-default-rtdb.firebaseio.com",
-    "project_id": "emalert-2788e",
-    "storage_bucket": "emalert-2788e.appspot.com"
+    "project_number": "694950393175",
+    "project_id": "flutter-fast-aid",
+    "storage_bucket": "flutter-fast-aid.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:325674316325:android:5c6a49ec7899716e9945cc",
+        "mobilesdk_app_id": "1:694950393175:android:c5c6682ac4b7c4e2c67a12",
         "android_client_info": {
           "package_name": "com.mujuzimoses.emalertAmbulance"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "325674316325-krg4m026teoogfhpp5lbhh9ih3uodnjg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCZPtd_SAT_zel83HS5tX1bTCRT9ob8pGE"
+          "current_key": "AIzaSyBoo0mCEEsqqJeXefh8CzL9_l_QntsdS3U"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "325674316325-krg4m026teoogfhpp5lbhh9ih3uodnjg.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:325674316325:android:07be976a0a4748969945cc",
-        "android_client_info": {
-          "package_name": "com.mujuzimoses.emalertAmbulance"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "325674316325-krg4m026teoogfhpp5lbhh9ih3uodnjg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCZPtd_SAT_zel83HS5tX1bTCRT9ob8pGE"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "325674316325-krg4m026teoogfhpp5lbhh9ih3uodnjg.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

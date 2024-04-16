@@ -179,6 +179,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                       ),
                       onPressed: () async {
                         bool hasInternet = await InternetConnectionChecker().hasConnection;
+                        print(nameTEC.text + " " + emailTEC.text + " " + phoneTEC.text + " " + passwordTEC.text + " " + confirmPasswordTEC.text);
                         if (hasInternet == true) {} else {
                           displayToastMessage("No internet Connection", context);
                           return;

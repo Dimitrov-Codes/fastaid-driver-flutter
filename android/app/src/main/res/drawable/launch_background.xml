@@ -7,6 +7,9 @@
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/launch_image" />
+            android:src="@drawable/fg_splash_hd"
+            android:height="150dp"
+            android:width="150dp"/>
+
     </item>
 </layer-list>

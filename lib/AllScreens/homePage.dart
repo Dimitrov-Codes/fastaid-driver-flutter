@@ -179,7 +179,7 @@ class _HomePageState extends State<HomePage> {
         appBar: AppBar(
           centerTitle: true,
           backgroundColor: Colors.grey[100],
-          title: Text("Siro Ambulance", style: TextStyle(
+          title: Text("Fast-Aid", style: TextStyle(
             fontFamily: "Brand Bold",
             color: Color(0xFFa81845)
           ),),

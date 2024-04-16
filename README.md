@@ -1,8 +1,8 @@
-# Siro Ambulance
+# Fast-Aid
 
-This is the Flutter Siro Ambulance app
+This is the Flutter Fast-Aid app
 
-## Getting started with Siro Ambulance
+## Getting started with Fast-Aid 
 
 Siro is an emergency based app with Uber like features where patients can request for ambulance services
 or medical emergency responses. In addition to instant emergency alerts (Ambulance request), the app will provide

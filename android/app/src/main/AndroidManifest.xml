@@ -10,8 +10,8 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
    <application
-        android:label="Siro Ambulance"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Fast-Aid"
+        android:icon="@mipmap/ic_launcher_foreground">
        <meta-data android:name="com.google.android.geo.API_KEY"
            android:value="AIzaSyCZPtd_SAT_zel83HS5tX1bTCRT9ob8pGE"/>
         <activity
